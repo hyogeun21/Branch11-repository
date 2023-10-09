@@ -1,5 +1,5 @@
-hi p
-hi y
-hi p
-hi y
-ss p
+hi p q
+hi y q
+hi p q
+hi y q
+ss p q
